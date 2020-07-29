@@ -1,0 +1,17 @@
+language: minimal
+os:
+  - linux
+
+script:
+  - curl -L -o mdBook.tar.gz https://github.com/rust-lang/mdBook/releases/download/v0.3.7/mdbook-v0.3.7-x86_64-unknown-linux-gnu.tar.gz
+  - tar -xf mdBook.tar.gz
+  - ./mdbook build
+
+deploy:
+  provider: pages
+  token: $GITHUB_TOKEN
+  keep_history: true
+  local_dir: book
+  skip_cleanup: true
+  on:
+    branch: master

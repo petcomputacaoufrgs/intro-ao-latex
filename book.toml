@@ -1,0 +1,6 @@
+[book]
+authors = ["Jordi"]
+language = "pt"
+multilingual = false
+src = "src"
+title = "intro-ao-latex"
