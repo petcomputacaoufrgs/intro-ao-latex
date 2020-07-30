@@ -1,7 +1,7 @@
 # Tabelas
 
 No LaTeX, tabelas são feitas usando o ambiente `tabular`.
-Porém, diferentemente das listas, esse ambiente em uma forma mais rígida de ser utilizado.
+Porém, diferentemente das listas, esse ambiente possui uma forma mais rígida de ser utilizada.
 
 Nessa página, iremos ver como montar uma tabela simples, por ser um material para iniciantes.
 Se você quiser gerar uma tabela mais complexa, você pode ler
@@ -21,12 +21,12 @@ O que esse parâmetro diz é que, nesse exemplo, as 4 colunas, indicadas por `c`
 - Tenha uma linha vertical no inicio à esquerda da tabela;
 - Tenha uma linha vertical dupla entre as duas primeiras colunas;
 - As duas colunas centrais fiquem separadas por espaços;
-- tenha uma linha vertical entre a 3ª e a 4ª coluna;
-- uma linha vertical no fim da tabela;
+- Tenha uma linha vertical entre a 3ª e a 4ª coluna;
+- Uma linha vertical no fim da tabela;
 
 ## Escrevendo a tabela
 
-Dentro do ambiente tabular, nós vamos escrever uma tabela, como a abaixo
+Dentro do ambiente tabular, nós vamos escrever uma tabela como essa:
 
 ``` tex
 \begin{tabular}{ | c || c c | c | }
@@ -44,7 +44,7 @@ Dentro do ambiente tabular, nós vamos escrever uma tabela, como a abaixo
 
 ![tabela](./img/tabela.png)
 
-Por mais que possa parecer complicado, cada parte dessa tabela será explicada a seguir.
+Por mais que possa parecer complicado, cada parte dessa será explicada a seguir.
 
 ### \hline
 
@@ -68,5 +68,5 @@ O `\multicolumn` é um comando que permite você gerar células que ocupam múlt
 Você irá passar 3 parâmetros obrigatórios (entre chaves), na seguinte ordem:
 
 1. O número de colunas que essa célula irá ocupar.
-2. Como será a separação das colunas antes e depois dessa célula
+2. Como será a separação das colunas antes e depois dessa célula.
 3. O valor que estará dentro dessa.

@@ -24,7 +24,7 @@ Na tabela abaixo temos os comandos para mudar um trecho e um bloco de texto.
 | enfatizado | `\emph{texto}` | *não tem* |
 
 Importante lembrar que, se os comandos de bloco não estiverem entre chaves, o estilo vai ser utilizado para tudo que vier abaixo dele, até o fim do documento.
-o contrário dos estilos, os comandos para alterar um trecho ou um bloco são o mesmo.
+
 ## Alterando o Tamanho
 
 Da mesma forma que podemos alterar o estilo da fonte, podemos alterar o tamanho dela.

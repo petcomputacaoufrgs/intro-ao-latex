@@ -15,3 +15,13 @@ A resposta é: **depende**.
 Se você vai escrever um documento de texto pequeno, sem uma formatação específica e sem uso de imagens, tabelas e ou fórmulas matemáticas, o Word é bem mais prático, pois você não precisa configurar seu documento antes de escrever.
 
 Porém, se você for fazer um artigo ou até mesmo um livro, com várias seções e capítulos, ou se você for usar fórmulas, imagens e tabelas complexas em seu documento, o Word pode se tornar confuso e difícil de se utilizar. Nesses casos, o LaTeX será o software ideal para você, afinal, qualquer trabalho de formatação, numeração de capítulos, entre outros, ficará a cargo do compilador.
+
+
+## Treine!
+
+Esse material foi feito para que você possa aprender o básico sobre LaTeX.
+Por isso, é de extrema importância o treino os conteúdos abordados aqui.
+
+Caso você queira, na seção [exemplo](./exemplo.md) há o link para o repositório do curso,
+onde está os arquivos utilizados para a montagem desse material.
+Recomendo que você baixe esses arquivos, poís lá você terá tudo que foi visto aqui. 

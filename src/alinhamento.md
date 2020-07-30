@@ -22,7 +22,7 @@ podemos usar os seguintes comandos antes do mesmo:
 | ----------- | -------- |
 | à esquerda | `\raggedleft` |
 | à direita | `\raggedright` |
-| centralizado | `centering` |
+| centralizado | `\centering` |
 
 Lembrando que se esses comandos forem usados dentro de um bloco (um texto entre chaves), ele só vai ser aplicado dentro desse.
 

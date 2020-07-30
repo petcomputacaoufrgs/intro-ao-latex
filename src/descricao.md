@@ -10,6 +10,6 @@ Uma lista de descrições é criada usando o ambiente `description`, e cada item
 \end{description}
 ```
 
-Nesse exemplo, vamos ter a seguinte lista (o título foi omitido do código).
+Nesse exemplo, vamos ter a seguinte lista (o título foi omitido do código):
 
 ![description](./img/lista-descricao.png)

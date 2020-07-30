@@ -1,14 +1,13 @@
 # Dividindo o documento em arquivos
 
-Para documentos grandes, é interessante poder separar o texto em diversos arquivos.
-Dessa forma temos uma organização melhor do nosso texto.
+Para documentos grandes, é interessante poder separar o texto em diversos arquivos, tendo assim uma melhor organização.
 
 ## Arquivo principal
 
 O arquivo principal será aquele que organizará todo o texto.
 Esse arquivo terá o preâmbulo do documento e o ambiente `document` dentro dele.
 
-Dentro do ambiente principal, se quisermos inserir um arquivo `texto.tex`, iremos usar o comando
+Dentro do ambiente principal, se quisermos inserir um arquivo `texto.tex`, iremos usar o comando:
 
 ``` tex
 \input{caminho/para/texto}

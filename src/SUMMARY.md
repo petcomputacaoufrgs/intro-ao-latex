@@ -18,7 +18,7 @@
     - [Descrições](./descricao.md)
     - [Tabelas](./tabela.md)
 - [Modo matemático](./matematico.md)
-    - [Como entrar no ambiente matematico](./entrar-matematico.md)
+    - [Como entrar no ambiente matemático](./entrar-matematico.md)
     - [Escrevendo texto no ambiente matemático](./escrever-matematico.md)
     - [Teoremas](./teoremas.md)
 - [Escrevendo código](./codigo.md)

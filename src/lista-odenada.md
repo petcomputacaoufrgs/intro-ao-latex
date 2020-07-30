@@ -12,6 +12,6 @@ Uma lista ordenada é criada usando o ambiente `enumerate`, e cada item é indic
 \end{enumerate}
 ```
 
-Nesse exemplo, vamos ter a seguinte lista (o título foi omitido do código).
+Nesse exemplo, vamos ter a seguinte lista (o título foi omitido do código):
 
 ![enumerate](./img/lista-ordenada.png)

@@ -2,7 +2,7 @@
 
 Em alguns momentos, será necessário escrever códigos no seu documento,
 para facilitar a escrita desses, o LaTeX possui um ambiente próprio para isso.
-Dentro do ambiente `verbatim`, o texto utiliza o estilo de fonte typewritter, e o texto é compilado exatamente da forma que foi escrito, inclusive espaços múltiplos e caracteres reservados do LaTeX.
+Dentro do ambiente `verbatim`, o texto utiliza o estilo de fonte typewritter e é compilado exatamente da forma que foi escrito, inclusive espaços múltiplos e caracteres reservados do LaTeX.
 
 ``` tex
 %texto anterior

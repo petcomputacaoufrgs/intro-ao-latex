@@ -18,7 +18,7 @@ Por padrão, o LaTeX tem 4 classes de documentos.
 Os três primeiros são classes de textos, enquanto o último é utilizado para criação de slides.
 Outros formatos também podem ser baixados ou criados, como é o caso da classe abnTeX2, que cria documentos de acordo com as normas da ABNT.
 
-### opções
+### Opções
 
 Além do tipo de documento, podemos definir algumas opções como:
 

@@ -10,6 +10,6 @@ Uma lista não ordenada é criada usando o ambiente `itemize`, e cada item é in
 \end{itemize}
 ```
 
-Nesse exemplo, vamos ter a seguinte lista (o título foi omitido do código).
+Nesse exemplo, vamos ter a seguinte lista (o título foi omitido do código):
 
 ![itemize](./img/lista-nao-ordenada.png)

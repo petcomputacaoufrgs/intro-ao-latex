@@ -40,5 +40,4 @@ possuem armazenamento em nuvem, de forma que você pode continuar seus textos de
 Os pontos negativos dessas plataformas é que você fica dependente da disponibilidade desses 
 serviços, e muitas vezes não consegue utilizar pacotes externos.
 
-Eu recomendo você começar utilizando o Overleaf, e se você ver que ele está sendo insuficiente, você
-instala  o LaTeX no seu computador.
+Eu recomendo que comece utilizando o Overleaf, e se este for insuficiente instale o LaTeX no seu computador

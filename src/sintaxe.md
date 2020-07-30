@@ -13,7 +13,7 @@ Os comandos podem ter parâmetros obrigatórios - que ficam entre chaves - e opc
 \documentclass[titlepage]{letter}
 ```
 
-Outra coisa importante de se dizer, é que comentários em LaTeX são feitos usando o símbolo **%**
+Outra coisa importante de se dizer, é que comentários em LaTeX são feitos usando o símbolo **%**.
 
 ## Ambientes
 Ambientes são regiões separadas pelos comandos `\begin{ambiente}` e `\end{ambiente}`, que indicam ao compilador que tudo que tiver nesse bloco será compilado de uma forma pré-definida.

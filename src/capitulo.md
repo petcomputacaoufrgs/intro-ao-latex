@@ -25,9 +25,9 @@ Para criar uma nova divisão (no exemplo, uma seção) você deve usar o seguint
 
 Lembrando que o nome curto é opcional, e é como a seção será referenciada no sumário caso o nome dessa seja muito longo.
 
-Caso você queira criar qualquer outra divisão, basta usar o comando específico - que será análogo ao comando `\section`
+Caso você queira criar qualquer outra divisão, basta usar o comando específico - que será análogo ao comando `\section`.
 
-### Divisões não numeradas.
+### Divisões não numeradas
 
 Caso você queira criar uma divisão não numerada, basta colocar um * antes dos parâmetros.
 Por exemplo:

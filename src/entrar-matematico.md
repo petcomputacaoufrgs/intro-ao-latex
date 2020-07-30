@@ -1,10 +1,10 @@
-# Como entrar no ambiente matematico
+# Como entrar no ambiente matemático
 
-Você pode entrar no modo matemático tanto dentro de um parágrafo quanto em uma linha a parte
+Você pode entrar no modo matemático tanto dentro de um parágrafo quanto em uma linha a parte.
 
 ## Dentro de um parágrafo (inline)
 
-Se você quer escrever uma equação no meio de um texto, você pode colocar a equação entre símbolo de $.
+Se você quer escrever uma equação no meio de um texto, você pode colocar a equação entre símbolo de `$`.
 Por exemplo:
 
 ``` tex
@@ -16,7 +16,7 @@ $ a^x+y \ne a^{x+y} $
 
 ## Criando equação não numerada
 
-Se você quiser criar uma equação separada do texto, mas não numerada, você pode colocar a equação entre os símbolos $$.
+Se você quiser criar uma equação separada do texto, mas não numerada, você pode colocar a equação entre os símbolos `$$`.
 Por exemplo:
 
 ``` tex

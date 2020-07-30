@@ -6,9 +6,9 @@ Existem milhares de pacotes no LaTeX, cada um com suas especificações e opçõ
 Vamos trazer aqui alguns pacotes que acreditamos serem os mais essenciais para o primeiro documento, porém você pode encontrar diversos outros pacotes na internet[^1].
 
 - `\usepackage[encode]{inputenc}`:
-    Por padrão, o LaTeX usa o encode ASCII, que não possuí acentos, cedilhas, entre outros. O pacote **inputenc** permite que você escolha outro encode para contornar esse problema. No overleaf ele coloca automaticamente o encode utf8, mas também podemos usar o encode latin-1;
+    Por padrão, o LaTeX usa o encode ASCII, que não possuí acentos, cedilhas, entre outros. O pacote **inputenc** permite que você escolha outro encode para contornar esse problema. No overleaf ele coloca automaticamente o encode utf8, mas também podemos usar o encode latin-1.
 - `\usepackage[language]{babel}`:
-    Organiza o documento de acordo com as regras de pontuação e lingua de um país. Para usar as regras do Brasil, basta passar a opção brazil para o pacote;
+    Organiza o documento de acordo com as regras de pontuação e lingua de um país. Para usar as regras do Brasil, basta passar a opção brazil para o pacote.
 - `\usepackage{indentfirst}`:
     Esse pacote cria o espaçamento de parágrafo automaticamente após iniciar uma nova linha. Não precisa de parâmetros.
 - `\usepackage{amsmath}`[^2]:

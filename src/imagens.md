@@ -1,12 +1,11 @@
 # Inserindo Imagens
 
-O LaTeX tem uma biblioteca expecífica para utilizar imagens no documento.
+O LaTeX tem uma biblioteca específica para utilizar imagens no documento.
 O pacote `graphicx` habilita um ambiente chamado `figure`, que permite que você insira imagens de uma forma simples no texto.
 
-Assim como as Tabelas, o pacote é bem complexo.
-Aqui iremos fazer apenas uma pequena introdução sobre o tema, mas caso você queira se aprofundar, você pode acessar. 
+Assim como o pacote para tabelas, este também é bem complexo. Aqui iremos fazer apenas uma pequena introdução sobre o tema, mas caso você queira se aprofundar, você pode acessar 
 [esse artigo](https://www.overleaf.com/learn/latex/Inserting_Images "Artigo do Overleaf sobre imagens") 
-(em inglês.)
+(em inglês).
 
 ## Código
 
@@ -25,7 +24,7 @@ Aqui iremos fazer apenas uma pequena introdução sobre o tema, mas caso você q
 
 ### Parâmetro de posição
 
-Ao iniciar o ambiente figure, podemos passar em que posição queremos que o LaTeX insira a mensagem. Podemos passar diversas opções, e o LaTeX vai inserir na posição mais adequada, seguindo a ordem recebida.
+Ao iniciar o ambiente figure, podemos passar em que posição queremos que o compilador insira a imagem e, colocando diversas opções, o LaTeX vai achar na posição mais adequada, seguindo a ordem recebida.
 
 | código | significado |
 | ------ | ----------- |
@@ -41,8 +40,8 @@ No caso do exemplo, estamos dizendo ao compilador:
 \begin{figure}[hb]
 ```
 
-1. Colocar a imagem próxima da sua posição no texto
-2. Se não for possível, colocar no fim da página
+1. Colocar a imagem próxima da sua posição no texto.
+2. Se não for possível, colocar no fim da página.
 
 ### Inserindo imagem
 
@@ -61,7 +60,7 @@ No exemplo, eu usei o argumento `scale=0.08`, dizendo que quero que as dimensõe
 Porém, existem outras formas de redimensionar a imagem, como por exemplo:
 
 ``` tex
-    % Insere uma imagem com 3cm de largura e 4 de altura
+    % Insere uma imagem com 3cm de largura e 4cm de altura
     \includegraphics[width=3cm, height=4cm]{caminho/para/imagem.png}
 
     % Insere uma imagem com a mesma largura do texto
@@ -70,4 +69,4 @@ Porém, existem outras formas de redimensionar a imagem, como por exemplo:
 
 ### Legenda
 
-Para inserir uma legenda na imagem, basta inserir o comando `\caption{sua legenda}` após inserir a imagem, ainda no ambiente `figure`.
+Para inserir uma legenda na imagem, basta acrescentar o comando `\caption{sua legenda}` após inserir a imagem, ainda no ambiente `figure`.
