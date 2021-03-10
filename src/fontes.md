@@ -28,7 +28,7 @@ Importante lembrar que, se os comandos de bloco não estiverem entre chaves, o e
 ## Alterando o Tamanho
 
 Da mesma forma que podemos alterar o estilo da fonte, podemos alterar o tamanho dela.
-Exitem 10 tamanhos de fonte e, diferente dos estilos, os tamanhos só se aplicam em blocos.
+Existem 10 tamanhos de fonte e, diferente dos estilos, os tamanhos só se aplicam em blocos.
 
 A ordem dos tamanhos é:
 
