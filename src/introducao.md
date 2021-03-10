@@ -25,3 +25,9 @@ Por isso, é de extrema importância o treino os conteúdos abordados aqui.
 Caso você queira, na seção [exemplo](./exemplo.md) há o link para o repositório do curso,
 onde está os arquivos utilizados para a montagem desse material.
 Recomendo que você baixe esses arquivos, poís lá você terá tudo que foi visto aqui. 
+
+## Contato
+
+Caso queira mandar um feedback sobre o curso, uma sugestão de incrementação, ou reportar algum erro,
+você pode entar em contato conosco por email ([pet@inf.ufrgs.br](pet@inf.ufrgs.br))
+ou pelas nossas redes sociais (**@petcompufrgs**).
